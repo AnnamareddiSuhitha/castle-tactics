@@ -29,7 +29,7 @@ Parimi Sunitha - 230001061 <br>
 
 ---
 
-## 🖥 Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python (Flask)
@@ -65,9 +65,9 @@ Make sure you have the following installed:
    ```bash
    python game.py
 
-### Game Flow
+## Game Flow
 
-##  Start Page
+###  Start Page
 
 -  Start Game
 -  View Leaderboard
@@ -77,13 +77,13 @@ Make sure you have the following installed:
 
 ---
 
-##  Game Page
+###  Game Page
 
 Choose mode (**Friend** or **Computer**) and start playing.
 
 ---
 
-##  Leaderboard &  User Stats
+###  Leaderboard &  User Stats
 
 Track your performance and compare with others.
 
