@@ -89,7 +89,7 @@ Track your performance and compare with others.
 
 ---
 
-##  About &  Learn Pages
+### About &  Learn Pages
 
 Learn about Castle Tactics and improve your chess skills.
 
