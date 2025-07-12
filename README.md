@@ -93,4 +93,6 @@ Track your performance and compare with others.
 
 Learn about Castle Tactics and improve your chess skills.
 
+##  Demo
+[Play Castle Tactics here](https://castac.onrender.com)
 
